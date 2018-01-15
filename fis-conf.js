@@ -27,14 +27,3 @@ fis.media('dev')
             to: '/evcard/www/csms'
         })
     })
-fis.media('test')
-    .match('**', {
-        release: '$0'
-    })
-    .match('*', {
-        deploy: fis.plugin('http-push', {
-            receiver: 'http://139.224.37.24:8999/receiver',
-            //远端目录
-            to: '/evcard/www/csms'
-        })
-    })
