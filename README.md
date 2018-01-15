@@ -14,7 +14,7 @@ $ npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 - 下载项目
 ```
-cnpm install evcarddoc
+git clone https://github.com/yunyi1895/docTemplate.git
 ```
 - 安装依赖
 ```
