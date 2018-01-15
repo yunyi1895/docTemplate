@@ -1,0 +1,13 @@
+{
+    "name": "evcarddoc",
+    "version": "1.0.5",
+    "description": "evcard接口文档",
+    "main": "index.js",
+    "scripts": {
+        "dev": "docute ./doc --watch --port 5566",
+        "i": "cnpm i  docute-cli fis3 -g",
+        "push": "fis3 release dev"
+    },
+    "author": "陈明烽",
+    "license": "ISC"
+}
