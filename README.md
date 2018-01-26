@@ -18,7 +18,7 @@ git clone https://github.com/yunyi1895/docTemplate.git
 ```
 - 安装依赖
 ```
-npm run i
+cnpm run i
 ```
 - 本地启动项目进行预览
 ```
