@@ -5,7 +5,7 @@
 
 ## 使用
 
-- 下载 [node](https://nodejs.org/zh-cn/)
+- 下载 [node](http://nodejs.cn/download/)
 
 - 安装 [cnpm](http://npm.taobao.org/)
 
