@@ -4,7 +4,7 @@
     "description": "evcard接口文档",
     "main": "index.js",
     "scripts": {
-        "dev": "docute ./doc --watch --port 5566",
+        "dev": "docute ./doc  --port 5566",
         "i": "cnpm i  docute-cli fis3 -g",
         "push": "fis3 release dev"
     },
