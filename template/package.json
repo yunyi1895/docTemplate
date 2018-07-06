@@ -1,7 +1,7 @@
 {
   "name": "interface-doc",
   "version": "1.0.0",
-  "description": "evcard接口文档",
+  "description": "接口文档模板",
   "main": "index.js",
   "scripts": {
     "dev": "serve ./doc -l 5566",
