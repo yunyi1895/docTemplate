@@ -9,6 +9,8 @@
 
 - 安装 [cnpm](http://npm.taobao.org/)
 
+- [项目地址](https://github.com/yunyi1895/docTemplate)
+
 ```
 $ npm install -g cnpm --registry=https://registry.npm.taobao.org
 
@@ -20,8 +22,17 @@ $ npm install -g cnpm --registry=https://registry.npm.taobao.org
 cnpm i interface-doc -g
 
 ```
+- 创建项目
 
+```
+docInit init
+```
 
+- 进入项目
+
+```
+cd 你的项目名称
+```
 
 - 安装依赖
 
@@ -37,9 +48,8 @@ npm run dev
 
 ## 注意事项
 
-- 发布之前一定要重命名文件夹
-
-  将doc改成 __你的项目名称+Api__
+- 项目名称规则  __你的项目名称-api__
+  例如 ： rest-api
 
 - 发布到服务器
 
@@ -47,15 +57,10 @@ npm run dev
 npm run push
 ```
 
-- 文档线上地址
-
-  http://csms-dev.evcard.vip/+__你的项目名+Api__/index.html
 
 ##相关地址
 
 - [MarkDown语法说明](http://www.markdown.cn/)
-
-- 实例：[evcard后台接口文档](http://csms-dev.evcard.vip/evcardAPPAPI/index.html)
 
 
 😎
