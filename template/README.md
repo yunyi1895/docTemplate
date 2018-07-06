@@ -11,20 +11,12 @@
 
 ```
 $ npm install -g cnpm --registry=https://registry.npm.taobao.org
-
 ```
-
 - 下载项目
-
 ```
-cnpm i interface-doc -g
-
+git clone http://192.168.1.103/front-end/evcard-doc.git
 ```
-
-
-
 - 安装依赖
-
 ```
 cnpm run i
 ```
