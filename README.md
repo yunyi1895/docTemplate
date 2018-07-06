@@ -24,9 +24,13 @@ cnpm i interface-doc -g
 ```
 - 创建项目
 
+
 ```
 docInit init
 ```
+![image](https://raw.githubusercontent.com/yunyi1895/docTemplate/master/assets/s1.png)
+![image](https://github.com/yunyi1895/docTemplate/blob/master/assets/s2.png?raw=true)
+
 
 - 进入项目
 
