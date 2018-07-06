@@ -29,7 +29,7 @@ cnpm i interface-doc -g
 docInit init
 ```
 ![image](https://raw.githubusercontent.com/yunyi1895/docTemplate/master/assets/s1.png)
-![image](https://github.com/yunyi1895/docTemplate/blob/master/assets/s2.png?raw=true)
+![image](https://raw.githubusercontent.com/yunyi1895/docTemplate/master/assets/s2.png)
 
 
 - 进入项目
@@ -61,6 +61,8 @@ npm run dev
 npm run push
 ```
 
+## 项目展示
+![image](https://raw.githubusercontent.com/yunyi1895/docTemplate/master/assets/s3.png)
 
 ##相关地址
 
