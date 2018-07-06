@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "serve ./doc -l 5566",
-    "i": "cnpm i  serve fis3 -g",
+    "i": "cnpm i  serve fis3 -g && cnpm i",
     "push": "fis3 release dev"
   },
   "author": "陈明烽",
